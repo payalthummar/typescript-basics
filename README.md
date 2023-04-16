@@ -4,7 +4,21 @@
 
 ### https://www.youtube.com/watch?v=gieEQFIfgYc
 
+## Installation
+
+To install the app, first clone the repository:
+
+### git clone https://github.com/payalthummar/typescript-basics.git
+
+Then navigate to the project directory and install the dependencies:
+
+```javascript
+cd typescript-basics
+npm install
+```
+
 - installation
+
   **npm i typescript -g**
 
 - to run ts file
@@ -47,6 +61,11 @@
 
 ---
 
+- **To run this file first copy the code from (lesson1.ts) file and paste it to (main.ts) file**
+- **then type (tsc -w) in the Terminal to see the result**
+
+---
+
 ### 💻 Source Code
 
 - 🔗 [Chapter 1 - Introduction, Setup & Config] (src/lesson1)
@@ -58,8 +77,8 @@
 - 🔗 [Chapter 7 - Index Signatures & keyof Assertions] (src/lesson7)
 - 🔗 [Chapter 8 - Generics] (src/lesson8)
 - 🔗 [Chapter 9 - Utility Types] (src/lesson9)
-<!-- - 🔗 Chapter 10 - Vite Introduction (_no source code_) (src/lesson10)
-- 🔗 [Chapter 11 - Beginners Project / Challenges] (src/lesson11)
+<!-- -
+- 🔗 [Chapter 11 - Beginners Project / Challenges] (src/lesson11-ToDo)
 - 🔗 [Chapter 12 - React + Typescript Starter] (src/lesson12)
 - 🔗 [Chapter 13 - React Hooks + Typescript] (src/lesson13)
 - 🔗 [Chapter 14 - React useReducer + Typescript] src/(lesson14)
@@ -106,3 +125,27 @@
 ```
 
 ---
+
+## Chapter 11 - Todo
+
+# install
+
+- npm create vite@latest
+
+# To setup project
+
+- cd lesson11-ToDo
+- npm i
+- npm run dev
+
+## Chapter 12 lesson12-React-Typescript
+
+# install
+
+- npm create vite@latest
+
+# To setup project
+
+- cd lesson12-React-Typescript
+- npm i
+- npm run dev

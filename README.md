@@ -128,7 +128,7 @@ npm install
 
 ## Chapter 11 - Todo
 
-# install
+### install
 
 - npm create vite@latest
 
@@ -140,7 +140,7 @@ npm install
 
 ## Chapter 12 lesson12-React-Typescript
 
-# install
+#### install
 
 - npm create vite@latest
 

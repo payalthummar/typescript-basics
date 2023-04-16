@@ -17,13 +17,18 @@ tsc -w
 [to create config file------------]
 tsc --init
 
+```javascript
 [change the file into config file--------------]
 
 "rootDir": "./src"
 "outDir": "./build/js"
 
-"rootDir": "./src" "include": ["src"] // typescript ignores the file, that are not inside the src directory
+"rootDir": "./src" "include": ["src"]
+
+// typescript ignores the file, that are not inside the src directory
 "noEmitOnError": true //Does not create files if any type checking errors are reported
+
+```
 
 [ to emit on error, type on terminal]
 tsc --noEmitOnError -w
@@ -32,6 +37,8 @@ tsc --noEmitOnError -w
 
 <script src="js/main.js" defer></script>
 
+````javascript
+
 ## Lessons
 
 1 - introduction
@@ -39,7 +46,7 @@ tsc --noEmitOnError -w
 3 - Objects & Arrays & Tuples | Enums
 4 - Type Aliases
 5 - Type Assertion (Type casting) - file changed (copyright.js & index.html)
-
+```javascript
 ## index.html
 
 <html lang="en">
@@ -68,8 +75,14 @@ tsc --noEmitOnError -w
     <p>Copyright &copy; <span id="year"></span></p>
   </body>
 </html>
+````
 
 6 - Class
 7 - Index Signatures & keyof Assertions
 8 - Generics
 9 - utitlity types
+
+```
+
+
+```

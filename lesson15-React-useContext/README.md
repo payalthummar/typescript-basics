@@ -7,6 +7,6 @@ To install the app, first clone the repository:
 Then navigate to the project directory and install the dependencies:
 
 ```javascript
-cd lesson14-React-useContext
+cd lesson15-React-useContext
 npm install
 ```

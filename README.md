@@ -128,36 +128,20 @@ npm install
 
 ## Chapter 11 - Todo
 
+## Chapter 12 lesson12-React-Typescript
+
+## Chapter 13 lesson13-React-Hooks (Counter + Text)
+
+## Chapter 14 lesson14-React-useReducer (Counter )
+
+## Chapter 15 lesson15-React-useContext (Counter + Text)
+
 ### install
 
 - npm create vite@latest
 
 # To setup project
 
-- cd lesson11-ToDo
-- npm i
-- npm run dev
-
-## Chapter 12 lesson12-React-Typescript
-
-#### install
-
-- npm create vite@latest
-
-# To setup project
-
-- cd lesson12-React-Typescript
-- npm i
-- npm run dev
-
-## Chapter 13 lesson13-React-Hooks
-
-#### install
-
-- npm create vite@latest
-
-# To setup project
-
-- cd lesson13-React-Hooks
+- cd {directoryName}
 - npm i
 - npm run dev

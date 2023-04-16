@@ -149,3 +149,15 @@ npm install
 - cd lesson12-React-Typescript
 - npm i
 - npm run dev
+
+## Chapter 13 lesson13-React-Hooks
+
+#### install
+
+- npm create vite@latest
+
+# To setup project
+
+- cd lesson13-React-Hooks
+- npm i
+- npm run dev

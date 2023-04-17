@@ -10,6 +10,9 @@ interface List {
 }
 
 export default class FullList implements List {
+  //   Define private static property to hold object instance;
+  // Define a private constructor;
+  // Provides a static method to get an object instance.
   static instance: FullList = new FullList();
 
   private constructor(private _list: ListItem[] = []) {}

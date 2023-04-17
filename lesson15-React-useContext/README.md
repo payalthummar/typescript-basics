@@ -9,4 +9,5 @@ Then navigate to the project directory and install the dependencies:
 ```javascript
 cd lesson15-React-useContext
 npm install
+npm run dev
 ```

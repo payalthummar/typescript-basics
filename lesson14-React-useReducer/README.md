@@ -9,4 +9,5 @@ Then navigate to the project directory and install the dependencies:
 ```javascript
 cd lesson14-React-useReducer
 npm install
+npm run dev
 ```
